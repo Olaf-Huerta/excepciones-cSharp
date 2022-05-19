@@ -1,0 +1,7 @@
+C:\Users\OCELOT\Desktop\Escuela\SEMESTRE 2\u5\p1-excepciones\bin\Debug\p1-excepciones.exe.config
+C:\Users\OCELOT\Desktop\Escuela\SEMESTRE 2\u5\p1-excepciones\bin\Debug\p1-excepciones.exe
+C:\Users\OCELOT\Desktop\Escuela\SEMESTRE 2\u5\p1-excepciones\bin\Debug\p1-excepciones.pdb
+C:\Users\OCELOT\Desktop\Escuela\SEMESTRE 2\u5\p1-excepciones\obj\Debug\p1-excepciones.csproj.AssemblyReference.cache
+C:\Users\OCELOT\Desktop\Escuela\SEMESTRE 2\u5\p1-excepciones\obj\Debug\p1-excepciones.csproj.CoreCompileInputs.cache
+C:\Users\OCELOT\Desktop\Escuela\SEMESTRE 2\u5\p1-excepciones\obj\Debug\p1-excepciones.exe
+C:\Users\OCELOT\Desktop\Escuela\SEMESTRE 2\u5\p1-excepciones\obj\Debug\p1-excepciones.pdb
